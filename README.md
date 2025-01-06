@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/aqOUrkDo2fdyE/giphy.gif">
 </p>
 
-## 🦄 Contact me on [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/YY_OIO) 
+## 🦄 Contact me on [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/U_S_IF) 
 <br>
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -14,7 +14,7 @@ You can use the website to generate badges: https://shields.io/
   
   
 <p align="left">
-<a href="https://t.me/U_O_X_O" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
+<a href="https://t.me/KT_I7" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
 
   
 - 🥀 I’m interested in ..🍁
@@ -43,11 +43,11 @@ You can click the Preview link to take a look at your changes.
  
  
 # Join🦄🍁
-[🍁DEVELOPER DICAPRIO🦄](https://t.me/YY_OIO) 
+[🍁DEVELOPER DICAPRIO🦄](https://t.me/U_S_IF) 
 
-[🍁TELEGRAM GROUP🦄](https://t.me/U_O_X_O)
+[🍁TELEGRAM GROUP🦄](https://t.me/KT_I7)
 
-[🍁TELEGRAM CHANNEL🦄](https://t.me/U_T_N)
+[🍁TELEGRAM CHANNEL🦄](https://t.me/KT_I7)
 
 
 
