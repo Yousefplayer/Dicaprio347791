@@ -24,7 +24,7 @@ You can use the website to generate badges: https://shields.io/
 - 😈 I'm Bad but I'm not Fake
 
 ##   **Github Stats**
-  ![Ninja stats](https://github-readme-stats.vercel.app/api?username=Dicaprio347791&show_icons=true&theme=tokyonight)
+  ![player stats](https://github-readme-stats.vercel.app/api?username=Dicaprio347791&show_icons=true&theme=tokyonight)
  
 <p align="center"><a href="https://github.com/Dicaprio347791"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dicaprio347791&theme=radical&layout=compact"></a></p> 
 
